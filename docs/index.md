@@ -2,122 +2,104 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Selected Projects in Data Science and Analytics
 
-[Link to another page](./another-page.html).
+---
 
-There should be whitespace between paragraphs.
+### NLP - Paper
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<!-- Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model. -->
 
-# Header 1
+Two sentence description of the project here
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[Sample Link](https://www.google.com/).
 
-## Header 2
+badge badge badge
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[Run the Code Here](https://img.shields.io/badge/any_text-you_lik)
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### NLP - Paper
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+<!-- Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model. -->
 
-#### Header 4
+Two sentence description of the project here
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+[Sample Link](https://www.google.com/).
 
-##### Header 5
+badge badge badge
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+[Run the Code Here](https://img.shields.io/badge/any_text-you_lik)
 
-###### Header 6
+---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### NLP - Paper
 
-### There's a horizontal rule below this.
+<!-- Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model. -->
 
-* * *
+Two sentence description of the project here
 
-### Here is an unordered list:
+[Sample Link](https://www.google.com/).
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+badge badge badge
 
-### And an ordered list:
+[Run the Code Here](https://img.shields.io/badge/any_text-you_lik)
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+---
 
-### And a nested list:
+### NLP - Paper
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+<!-- Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model. -->
 
-### Small image
+Two sentence description of the project here
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+[Sample Link](https://www.google.com/).
 
-### Large image
+badge badge badge
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[Run the Code Here](https://img.shields.io/badge/any_text-you_lik)
 
+---
 
-### Definition lists can be used with HTML syntax.
+### NLP - Paper
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+<!-- Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model. -->
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Two sentence description of the project here
 
-```
-The final element.
-```
+[Sample Link](https://www.google.com/).
+
+badge badge badge
+
+[Run the Code Here](https://img.shields.io/badge/any_text-you_lik)
+
+---
+
+### NLP - Paper
+
+<!-- Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model. -->
+
+Two sentence description of the project here
+
+[Sample Link](https://www.google.com/).
+
+badge badge badge
+
+[Run the Code Here](https://img.shields.io/badge/any_text-you_lik)
+
+---
+
+### NLP - Paper
+
+<!-- Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model. -->
+
+Two sentence description of the project here
+
+[Sample Link](https://www.google.com/).
+
+badge badge badge
+
+[Run the Code Here](https://img.shields.io/badge/any_text-you_lik)
+
+---

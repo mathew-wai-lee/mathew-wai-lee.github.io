@@ -21,9 +21,9 @@
 title: Mathew Lee
 email: mwlee9@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  "Experienced analytics leader with 7+ years of commercial experience in analytics, supply chain, marketing, and E-Commerce. 
+  Experienced analytics leader with 7+ years of commercial experience in analytics, supply chain, marketing, and E-Commerce. 
   Currently honing my Data Science skills in the master's degree program at UT Austin. Previously at Henkel (Dial) and PepsiCo, 
-  now leading an amazing team of 4 as Principal Analyst for E-Commerce Analytics at Amazon (Whole Foods Market)!"
+  now leading an amazing team of 4 as Principal Analyst for E-Commerce Analytics at Amazon (Whole Foods Market)!
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -38,11 +38,11 @@ plugins:
 
 logo: /assets/img/profile-photo-2023.png
 # github.repository_url: site.github.repository_url
-# github.owner_url: https://github.com/mathew-wai-lee
-# github.owner_name: Mathew Lee
+# owner_url: https://github.com/mathew-wai-lee
+# owner_name: Mathew Lee
 
 # show_downloads: true
-google_analytics: G-8GQW328WBC
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
