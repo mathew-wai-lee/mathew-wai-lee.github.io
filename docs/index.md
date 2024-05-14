@@ -14,9 +14,9 @@ Pre-trained models that over-rely on popular annotated datasets, like SNLI and M
 
 [Read the Paper Here](https://www.google.com/)
 
-![Static Badge](https://img.shields.io/badge/Python-white?logo=python)
-![Static Badge](https://img.shields.io/badge/PyTorch-white?logo=pytorch)
-![Static Badge](https://img.shields.io/badge/Docker-white?logo=docker)
+![Static Badge](https://img.shields.io/badge/Python-black?logo=python)
+![Static Badge](https://img.shields.io/badge/PyTorch-black?logo=pytorch)
+![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
 
 ---
 
@@ -30,10 +30,10 @@ to train teams at Amazon on the internals of PySpark and Docker.
 [PySpark Stack](https://github.com/mathew-wai-lee/docker_pyspark_unix_devcontainer) | 
 [Duckdb Superset Stack](https://github.com/mathew-wai-lee/docker_compose_superset_devcontainer)
 
-![Static Badge](https://img.shields.io/badge/PySpark-white?logo=apachespark)
+![Static Badge](https://img.shields.io/badge/PySpark-black?logo=apachespark)
 ![Static Badge](https://img.shields.io/badge/DuckDB-black?logo=duckdb)
 ![Static Badge](https://img.shields.io/badge/Superset-black?logo=apacheecharts)
-![Static Badge](https://img.shields.io/badge/Docker-white?logo=docker)
+![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
 
 ---
 
@@ -43,13 +43,13 @@ CNN (Convolutional Neural Networks) can do amazing things when paired with cleve
 In this project, I created a low-level controller to train an AI cart to complete a course of SuperTuxKart.
 The 'auto-pilot' control mechanism is then used auto-pilot to train a vision based driving system composed of a CNN.
 
-[Code](https://www.google.com/)
+[Find the Code Here](https://www.google.com/)
 
 ![Driving Sample](./assets/papers/test_2022_11_17_03_01_21.gif)
 
-![Static Badge](https://img.shields.io/badge/Python-white?logo=python)
-![Static Badge](https://img.shields.io/badge/PyTorch-white?logo=pytorch)
-![Static Badge](https://img.shields.io/badge/Docker-white?logo=docker)
+![Static Badge](https://img.shields.io/badge/Python-black?logo=python)
+![Static Badge](https://img.shields.io/badge/PyTorch-black?logo=pytorch)
+![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
 
 ---
 
@@ -59,7 +59,7 @@ SARIMA (Seasonal Auto Regressive Integrated Moving Average) brings components of
 to create a more robust way to forecast. In this assignment, I report the "one-year-in-advance" prediction of temperature for January 2018, 
 along with the upper and lower bounds of the prediction interval. 
 
-[Code](https://www.google.com/)
+[Find the Code Here](https://www.google.com/)
 
 ![SARIMA Fig 1.](./assets/papers/SARIMA.png)
 
@@ -67,34 +67,33 @@ along with the upper and lower bounds of the prediction interval.
 
 ---
 
-### Kalman Filter - Applying a Kalman Filter to univariate dynamic linear model time series:
+### Kalman Filter - Applying a Kalman Filter to univariate dynamic linear model time series
 
 Kalman Filters have many applications in aerospace, navigation, econometrics, etc. and is often applied in
 time series analysis for signal processing. By recursively using "predict" and "update" stages, we are able to 
 estimate a joint probability distribution over the variables by taking the uncertainty into account. In this assignment, I apply this
 methodology for forecasting.
 
-![Kalman Fig. 1](./assets/papers/Kalman1.png)
-![Kalman Fig. 2](./assets/papers/Kalman2.png)
-![Kalman Fig. 3](./assets/papers/Kalman3.png)
-![Kalman Fig. 4](./assets/papers/Kalman4.png)
+|              |           | 
+|:-------------|:------------------|
+| ![Kalman Fig. 1](./assets/papers/Kalman1.png)          | ![Kalman Fig. 2](./assets/papers/Kalman2.png)  |
+| ![Kalman Fig. 3](./assets/papers/Kalman3.png)          | ![Kalman Fig. 4](./assets/papers/Kalman4.png)  |
+
 ![Kalman Fig. 5](./assets/papers/Kalman5.png)
 
 ![Static Badge](https://img.shields.io/badge/R-black?logo=r)
 
 ---
 
-### UI/UX  - Applying a Kalman Filter to univariate dynamic linear model time series:
+### UI/UX Application Development - Develop Business Friendly Tools
 
-Kalman Filters have many applications in aerospace, navigation, econometrics, etc. and is often applied in
-time series analysis for signal processing. By recursively using "predict" and "update" stages, we are able to 
-estimate a joint probability distribution over the variables by taking the uncertainty into account. In this assignment, I apply this
-methodology for forecasting.
+Most business stakeholders err away from CLI (Command Line Interfaces) or complicated code/SQL. Instead, in this 
+business use case I designed and built an application that accepts input, queries a MS SQL Server Database, 
+and returns results for master data management teams to maintain tables in SAP.
 
-![Kalman Fig. 1](./assets/papers/Kalman1.png)
-![Kalman Fig. 2](./assets/papers/Kalman2.png)
-![Kalman Fig. 3](./assets/papers/Kalman3.png)
-![Kalman Fig. 4](./assets/papers/Kalman4.png)
-![Kalman Fig. 5](./assets/papers/Kalman5.png)
+[Application Code Here](https://github.com/mathew-wai-lee/PCUIGo) |
+[Golang Todo App Here](https://github.com/mathew-wai-lee/todo_app_golang) 
 
-![Static Badge](https://img.shields.io/badge/R-black?logo=r)
+![Static Badge](https://img.shields.io/badge/golang-black?logo=go)
+![Static Badge](https://img.shields.io/badge/Javascript-black?logo=javascript)
+![Static Badge](https://img.shields.io/badge/html/CSS-black?logo=html5)
