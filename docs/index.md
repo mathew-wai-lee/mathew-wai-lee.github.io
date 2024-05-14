@@ -56,9 +56,45 @@ The 'auto-pilot' control mechanism is then used auto-pilot to train a vision bas
 ### Time Forecasting - Using SARIMA to Predict Dallas Weather 
 
 SARIMA (Seasonal Auto Regressive Integrated Moving Average) brings components of different Time Series forecasting methods
-to create a more robust way to forecast. In this assignment, I report the "one-year-in-advance" prediction of aMDT for January 2018, 
+to create a more robust way to forecast. In this assignment, I report the "one-year-in-advance" prediction of temperature for January 2018, 
 along with the upper and lower bounds of the prediction interval. 
 
-![Driving Sample](./assets/papers/SARIMA.png)
+[Code](https://www.google.com/)
+
+![SARIMA Fig 1.](./assets/papers/SARIMA.png)
+
+![Static Badge](https://img.shields.io/badge/R-black?logo=r)
+
+---
+
+### Kalman Filter - Applying a Kalman Filter to univariate dynamic linear model time series:
+
+Kalman Filters have many applications in aerospace, navigation, econometrics, etc. and is often applied in
+time series analysis for signal processing. By recursively using "predict" and "update" stages, we are able to 
+estimate a joint probability distribution over the variables by taking the uncertainty into account. In this assignment, I apply this
+methodology for forecasting.
+
+![Kalman Fig. 1](./assets/papers/Kalman1.png)
+![Kalman Fig. 2](./assets/papers/Kalman2.png)
+![Kalman Fig. 3](./assets/papers/Kalman3.png)
+![Kalman Fig. 4](./assets/papers/Kalman4.png)
+![Kalman Fig. 5](./assets/papers/Kalman5.png)
+
+![Static Badge](https://img.shields.io/badge/R-black?logo=r)
+
+---
+
+### UI/UX  - Applying a Kalman Filter to univariate dynamic linear model time series:
+
+Kalman Filters have many applications in aerospace, navigation, econometrics, etc. and is often applied in
+time series analysis for signal processing. By recursively using "predict" and "update" stages, we are able to 
+estimate a joint probability distribution over the variables by taking the uncertainty into account. In this assignment, I apply this
+methodology for forecasting.
+
+![Kalman Fig. 1](./assets/papers/Kalman1.png)
+![Kalman Fig. 2](./assets/papers/Kalman2.png)
+![Kalman Fig. 3](./assets/papers/Kalman3.png)
+![Kalman Fig. 4](./assets/papers/Kalman4.png)
+![Kalman Fig. 5](./assets/papers/Kalman5.png)
 
 ![Static Badge](https://img.shields.io/badge/R-black?logo=r)
