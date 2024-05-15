@@ -29,7 +29,7 @@ convolution layers for visual processing. CNN's can do amazing things when paire
 In this project, I leverage a low-level 'auto-pilot' controller to train an AI vision based driving system 
 to complete a course of SuperTuxKart.
 
-[Find the Code Here](https://www.google.com/)
+[Find the Code Here](https://github.com/mathew-wai-lee/CS342_DL_HW5)
 
 ![Driving Sample](./assets/papers/test_2022_11_17_03_01_21.gif)
 
@@ -78,7 +78,7 @@ different Time Series forecasting methods to create a more robust way to forecas
 In this assignment, I report the "one-year-in-advance" prediction of temperature for January 2018, 
 along with the upper and lower bounds of the prediction interval. 
 
-[Find the Code Here](https://www.google.com/)
+[Find the Code Here](https://github.com/mathew-wai-lee/DSC395T_APM/blob/main/HOMEWORK/HW2/FINAL_REPORTS/HW2_Q3.pdf)
 
 ![SARIMA Fig 1.](./assets/papers/SARIMA.png)
 
@@ -93,7 +93,7 @@ time series analysis for signal processing. By recursively using "predict" and "
 estimate a joint probability distribution over the variables by taking the uncertainty into account. In this assignment, I apply the 
 Kalman filter for forecasting a time series.
 
-[Find the Code Here](https://www.google.com/)
+[Find the Code Here](https://github.com/mathew-wai-lee/DSC395T_APM/blob/main/HOMEWORK/HW3/FINAL_REPORTS/HW3_Q2.pdf)
 
 |                                                        |                                                | 
 |:-------------------------------------------------------|:-----------------------------------------------|
