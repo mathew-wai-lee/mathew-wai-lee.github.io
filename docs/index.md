@@ -19,6 +19,8 @@ and the HuggingFace Transformers library.
 ![Static Badge](https://img.shields.io/badge/Python-black?logo=python)
 ![Static Badge](https://img.shields.io/badge/PyTorch-black?logo=pytorch)
 ![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
+![Static Badge](https://img.shields.io/badge/DuckDB-black?logo=duckdb)
+![Static Badge](https://img.shields.io/badge/Superset-black?logo=apacheecharts)
 
 ---
 
